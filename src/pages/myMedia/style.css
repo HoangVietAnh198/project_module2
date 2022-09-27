@@ -1,0 +1,152 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+  }
+  .contair {
+    width: auto;
+    height: auto;
+  }
+  .frame1 {
+    width: auto;
+    height: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    align-content: space-between;
+  }
+  .frame2 {
+    height: 100%;
+    width: 100%;
+    background-color: cadetblue;
+    margin-top: 20px;
+    padding-bottom: 30px;
+  }
+  .fadi2 {
+    display: flex;
+    align-items: center;
+  }
+  .input {
+    padding-left: 37px;
+    padding-top: 10px;
+    padding-bottom: 15px;
+    padding-right: 300px;
+    margin-left: 30px;
+    background-color: gainsboro;
+    color: black;
+    border: 1px solid lightcyan;
+  }
+  .fadi1 {
+    display: flex;
+    margin-top: 10px;
+  }
+  .taibo1 {
+    padding: 5px 30px 5px 30px;
+    background-color: white;
+    padding-bottom: 10px;
+    position: absolute;
+    left: 550px;
+    top: 16px;
+    border: #aaa solid 1px;
+    background-color: white;
+    color: #aaa;
+    border: none;
+  }
+  .cutu1 {
+    margin-left: 50px;
+    font-size: 18px;
+  }
+  .taibo2 {
+    margin-left:30px;
+    padding: 5px 30px 5px 30px ;
+    border-radius: 20px;
+    background-color: lime;   
+    color: white;
+    padding-bottom: 5px;
+    padding-right: 20px;
+    border: none;
+  }
+  .tutu2 {
+    color: white;
+    display: flex;
+    justify-content: center;
+    padding-top: 10px;
+    font-size: 35px;
+  }
+  .tutu3 {
+    color: white;
+    display: flex;
+    justify-content: center;
+    padding-top: 10px;
+    font-size: 17px;
+  }
+  .fadi3 {
+    position: relative;
+    top: 10px;
+  }
+  .fadi4 {
+    position: relative;
+    top: 20px;
+    font-size: 15px;
+  }
+  img {
+    width: 150px;
+    height: 150px;
+    border: 2px solid white;
+    margin-top: 40px;
+    border-radius: 999px;
+  }
+  .img {
+    display: flex;
+    justify-content: center;
+  }
+  .button {
+    display: flex;
+    justify-content: flex-end;
+    position: relative;
+    left: -20px;
+  }
+  .taibo3 {
+    margin-left: 20px;
+    border-radius: 20px;
+    background-color: rgb(100, 109, 228);
+    color: white;
+    padding-bottom: 10px;
+    padding: 5px 10px 5px 5px;
+    border: none;
+  }
+  .titi {
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+    font-size: 34px;
+    color: #aaa;
+  }
+  .fa-magnifying-glass {
+    position: absolute;
+    left: 160px;
+    top: 20px;
+    font-size: 20px;
+  }
+  .tutu1 {
+    font-size: 30px;
+    margin-left: 20px;
+  }
+  .fa-arrow-up-from-bracket {
+    padding-right: 10px;
+  }
+  .fa-thumbs-up {
+    background-color: aliceblue;
+  }
+  .fa-arrow-down-to-line {
+    background-color: aliceblue;
+  }
+  .an1 {
+    position: relative;
+    right: 390px;
+    top: 20px;
+    margin-left: 30px;
+    border-radius: 10px;
+    color: antiquewhite;
+  }
+  
